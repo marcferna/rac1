@@ -1,4 +1,13 @@
-class Rac1::Search::ElDavantal < Rac1::Search
-  PROGRAM = 'el-mon'
-  SECTION = 'el-davantal'
+module Rac1
+  class Search
+    class ElDavantal < Rac1::Search
+      def program
+        'el-mon'
+      end
+
+      def section
+        'el-davantal'
+      end
+    end
+  end
 end
