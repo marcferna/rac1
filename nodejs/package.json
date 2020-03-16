@@ -11,5 +11,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Marc Fernandez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "libxmljs": "^0.19.7",
+    "parse5": "^5.1.1",
+    "xmldom": "^0.3.0",
+    "xmlserializer": "^0.6.1",
+    "xpath": "0.0.27"
+  }
 }
