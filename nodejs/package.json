@@ -1,0 +1,15 @@
+{
+  "name": "rac1",
+  "version": "0.1.0",
+  "description": "Helpers to interact with the Rac1 API.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcferna/rac1.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marc Fernandez",
+  "license": "ISC"
+}
